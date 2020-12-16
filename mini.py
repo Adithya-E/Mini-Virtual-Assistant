@@ -144,9 +144,7 @@ def loop():
                     print(ggn.gettext())
                     speak(ggn.gettext())
                     
-            elif ('play' and 'netflix') in command:
-                print(2+3)
-                
+                        
                 
                 
             else:
